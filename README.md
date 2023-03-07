@@ -44,5 +44,6 @@ use reactstrap for gridview is plus
   *UPDATE BY ID - ( PUT REQUEST ) https://6249e521fd7e30c51c085463.mockapi.io/api/info/:id
   
   
-  
+after complete you'r task email your project to dadehkav.dehghan.tabarestan@gmail.com
+
 **Good luck**
